@@ -1,0 +1,2 @@
+This is my first repo following the Odin Project.
+So... Hello World :)
